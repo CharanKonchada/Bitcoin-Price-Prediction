@@ -49,7 +49,9 @@ This project uses a deep learning approach—specifically Long Short-Term Memory
 ## 📊 Results
 
 > **MAE**: 1,930.36
+
 > **RMSE**: 2,589.94
+
 > **Accuracy (R²)**: 98.88%
 
 ---
