@@ -1,5 +1,5 @@
 
-# 📈 Bitcoin Price Prediction with LSTM
+🚀 Bitcoin Price Prediction using Traditional time series and LSTM! 📈💡
 
 This project uses a deep learning approach—specifically Long Short-Term Memory (LSTM) networks—to forecast Bitcoin closing prices using historical market data. It focuses on capturing temporal trends in Bitcoin prices for accurate time series prediction.
 
