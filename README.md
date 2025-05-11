@@ -59,7 +59,9 @@ This project uses a deep learning approach—specifically Long Short-Term Memory
 ## ⚠️ Disclaimer
 
 > **This project is for educational and research purposes only.**
+
 > While the model shows high accuracy (\~98.88%), it should **not** be used for actual financial trading or investment decisions. Cryptocurrency markets are highly volatile, and even the most accurate models can fail under real-world conditions.
+
 > **Use at your own risk. Do not invest based solely on this prediction model.**
 
 
